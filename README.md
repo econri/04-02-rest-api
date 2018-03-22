@@ -9,7 +9,7 @@
 
 **For using PostgreSQL**
 * download and install PostgreSQL from official web-site https://www.postgresql.org/download/
-* user main *postgres* role with pass *postgres* or create your postgres user
+* use main *postgres* role with pass *postgres* or create your postgres user
 
 *If you create new user and want work with it:*
 * change server configs in file './server/configs/config.js'

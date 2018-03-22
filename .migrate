@@ -1,0 +1,17 @@
+{
+  "lastRun": "1520952343941-add-books.js",
+  "migrations": [
+    {
+      "title": "1510499168509-add-publishers.js",
+      "timestamp": 1521722606885
+    },
+    {
+      "title": "1510499459088-add-authors.js",
+      "timestamp": 1521722606949
+    },
+    {
+      "title": "1520952343941-add-books.js",
+      "timestamp": 1521722607053
+    }
+  ]
+}

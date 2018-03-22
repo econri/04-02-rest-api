@@ -1,10 +1,10 @@
 **Steps**:
-* for install node modules: npm install
-* for sync PostgreSQL DataBase with your models: npm run syncDB
-* for install migrate module globally: npm install migrate -g
-* for insert data in DataBase: migrate up
-* for delete data from DataBase: migrate down
-* for starting server app: npm start
+* for install node modules: **npm install**
+* for sync PostgreSQL DataBase with your models: **npm run syncDB**
+* for install migrate module globally: **npm install migrate -g**
+* for insert data in DataBase: **migrate up**
+* for delete data from DataBase: **migrate down**
+* for starting server app: **npm start**
 
 
 **For using PostgreSQL**

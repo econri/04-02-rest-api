@@ -13,7 +13,7 @@
 # Перейти в папку, в которую планируется клонирование проекта, например:
 $ cd /Projects
 # Клонировать проект из репозитория
-$ git clone https://github.com/econri/04-01-web-sockets.git
+$ git clone https://github.com/econri/04-02-rest-api.git
 ```
 
 4. Проверить подключение к базе и внести в нее данные
